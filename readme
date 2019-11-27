@@ -1,0 +1,2 @@
+If you get 'out of memory' exception, try to increasy the memory limit:
+https://www.npmjs.com/package/increase-memory-limit

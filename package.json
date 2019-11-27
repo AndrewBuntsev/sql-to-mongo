@@ -1,0 +1,20 @@
+{
+  "name": "sql-to-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "8.1.0",
+    "mongodb": "3.3.2",
+    "mongoose": "5.7.12",
+    "mssql": "5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.19.1"
+  },
+  "author": "Andrei Buntsev",
+  "license": "ISC"
+}
